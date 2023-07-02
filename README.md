@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theCodeDesigner
-- 👀 I’m interested in ... Web Development 
+- 👀 I’m interested in ... Web Development and Graphic Design
 - 🌱 I’m currently learning ... Javascript, React,HTML and CSS
 - 📫 You can Reach me on any of my social pages.
 
